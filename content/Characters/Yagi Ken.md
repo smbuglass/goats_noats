@@ -1,3 +1,4 @@
+#goats
 ![[Pasted image 20240810204641.png]]
 
 Evil bastard played by Aaron 

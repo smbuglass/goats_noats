@@ -1,3 +1,4 @@
+#goats
 # Player Characters
 - [[Yagi Taka]]
 - [[Yagi Ken]]

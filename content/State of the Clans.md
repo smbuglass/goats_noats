@@ -21,6 +21,6 @@ The loyal Unicorn are few in number and now are a nomadic people. They are value
 ### Badger
 The Badger are an insular mountain clan, who have been granted a great deal more land than they ever have administered before. While their relations with the Goat were tempestuous, they landed more or less positively. They still are the most obvious rival of the Badger, and whether war or peace is driven by the two clans will be very impactful on their mutual future.
 ### Fox
-The Fox are in a troubling position, having a blood feud with the most powerful minor clan and their traditional ally in the Unicorn having been more or less dissolved. They are likely to be seeking new allies and be willing to pay dearly for them, making their future dynamic and hard to predict.
+The Fox are in a troubling position, having a blood feud with the most powerful minor clan and their traditional ally in the Unicorn having been more or less dissolved. They are likely to be seeking new allies and be willing to pay dearly for them, making their future dynamics hard to predict.
 ### Mantis
-The Mantis are closely allied with the Crane at this point, and rule the waves. Their search for leverage to accomplish their long-term goal of major clan status may turn internal to Rokugan, with the fragments of [[Fu Leng]] in play, or it may turn external, with the new Empress perhaps not being as isolationist as the last few.
+The Mantis are closely allied with the Crane at this point, and rule the waves. Their search for leverage to accomplish their long-term goal of major clan status may turn internal to Rokugan, with the fragments of [Fu Leng](https://l5r.fandom.com/wiki/Fu_Leng) in play, or it may turn external, with the new Empress perhaps not being as isolationist as the last few.
