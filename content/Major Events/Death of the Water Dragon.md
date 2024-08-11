@@ -1,0 +1,1 @@
+The [water dragon](https://l5r.fandom.com/wiki/Dragon_of_Water) is generally considered to be a pretty important and powerful critter in the L5R universe.
