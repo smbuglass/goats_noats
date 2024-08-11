@@ -13,6 +13,7 @@ Contained herein are my notes for Season 2 of the L5R Goat Clan Chronicles.
 [[State of the Clans]]
 
 # Helpful Links
+[Generation 1 Inheritances](https://docs.google.com/document/d/1M58NHNJodjIJJrMXiGsx6p_XYRTf19lNN7-RZ-wVcKY/edit)
 
 This site was made using Quartz. 
 See the [documentation](https://quartz.jzhao.xyz) to make your own!

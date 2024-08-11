@@ -1,0 +1,1 @@
+Firstborn son of [[Yagi Taka]] and older brother of [[Yagi Kagore]]

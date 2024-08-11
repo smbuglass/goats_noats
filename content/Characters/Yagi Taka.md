@@ -11,4 +11,5 @@ Taka was born into the [Kaiu](https://l5r.fandom.com/wiki/Kaiu_family) family, a
 - [[Yagi Kagore]]
 - [[Yagi Kaoru]]
 - [[Taka's Adopted Children|Adopted Children]]
-- 
+# Tesaguri no Tamashi
+Taka forged a kickass crossbow using wood from [Traitor's Grove](https://l5r.fandom.com/wiki/Hayashi_no_Uragirimono), after he won the wood in a competition during a Scorpion hosted winter court.

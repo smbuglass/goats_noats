@@ -1,9 +1,9 @@
 # Drew's Character
 
-# [[Yagi Mikio]]
+# [[Yagi Nobuo]]
 
 # Ethan's Character
 
-# Tommy's Character
+# [[Yagi Kagore]]
 
 # Tom's Character

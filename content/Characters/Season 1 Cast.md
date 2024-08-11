@@ -1,3 +1,8 @@
+---
+aliases:
+  - The Goats
+---
+
 #goats
 # Player Characters
 - [[Yagi Taka]]
