@@ -1,4 +1,9 @@
-#Season1 
+---
+tags:
+  - Season1
+  - tbd
+---
+
 # Goat Clan's Founding
 Season one began with a [[Season 1 Prologue|narrative sequence]] featuring [[Yagi Seo]] and the events leading to her founding the clan.
 
