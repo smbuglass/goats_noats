@@ -1,6 +1,6 @@
 ---
 tags:
-  - goats
+  - character/goat
 ---
 
 Current and founding Daimyo of [[The Goat Clan Map]]. Badass sword granny. Doesn't take shit.

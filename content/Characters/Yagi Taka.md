@@ -1,6 +1,6 @@
 ---
 tags:
-  - goats
+  - character/goat
 ---
 Yagi Taka was a Gen 1 character played by me, Scott!
 # Kaiu Engineers

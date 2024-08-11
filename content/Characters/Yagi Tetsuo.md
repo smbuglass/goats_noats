@@ -1,4 +1,7 @@
-#goats 
+---
+tags:
+  - character/goat
+---
 
 Husband of [[Yagi Itsuko]]. Played by Tom after Itsuko died.
 # Death
