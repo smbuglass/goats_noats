@@ -1,0 +1,1 @@
+Husband of [[Yagi Itsuko]]. Played by Tom before he too died

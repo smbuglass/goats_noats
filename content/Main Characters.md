@@ -1,6 +1,6 @@
 # Drew's Character
 
-# Yagi Mikio
+# [[Yagi Mikio]]
 
 # Ethan's Character
 

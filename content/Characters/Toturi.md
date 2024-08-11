@@ -1,0 +1,1 @@
+The previous Emperor of Rokugan
