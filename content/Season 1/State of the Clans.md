@@ -1,7 +1,7 @@
 (*[Source](https://docs.google.com/document/d/12K7Pqj-iiqSb60n0vsfpQUpA2v67WfsCRxCgkyoLhzE/edit)*)
 # The Current Day in Rokugan
 *(Note: This is mostly out of character knowledge, you would only have detailed knowledge about the elements surrounding your own clan.)*
-## [[Clans#[Crab](https //l5r.fandom.com/wiki/Crab_Clan)|Crab]]
+## Crab
 The Crab took some territory from the Crane during the era of upheaval before the coronation of Empress Yuki, and in fact they are relatively ascendant militarily, although their increased responsibilities means that their abilities in fact are not much greater. They still man the Kaiu wall, protecting the Empire from the shadowlands, and have begun expanding it further and further into the north, dividing the former Unicorn lands now under their control from the Burning Sands to the west. Raids by the Dark Khanate are common, and the terrain that the Crab are now defending is unfamiliar, but rich.
 The most unusual part of the Crab in the modern day is the Revenant Legion, untainted humans who have wandered out of the Shadowlands, lacking any memory, but with the touch of the realm of the dead still upon them. They have been adopted en masse into the Hiruma family, and yet another attempt to recapture their ancestral home may soon begin, stiffened by these new samurai.
 ## Crane

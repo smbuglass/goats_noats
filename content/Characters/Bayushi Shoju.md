@@ -1,6 +1,7 @@
 ---
 tags:
   - tbd
+  - character/scorpion
 ---
 
 Former Scorpion that got absolutely merc'ed by [[The Nameless Yagi]] in S1.
