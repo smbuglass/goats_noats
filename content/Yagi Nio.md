@@ -1,0 +1,1 @@
+Son of [[Yagi Taka]], a tremendous nerd who really just wants to build castles.
