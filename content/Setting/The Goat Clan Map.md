@@ -1,1 +1,1 @@
-![[Pasted image 20240810211242.png]]
+![[goat_map.png]]

@@ -1,4 +1,8 @@
-#Season1
+---
+tags:
+  - season_1
+---
+
 The lands of the Dragon are arranged in successively smaller semicircles, moving back into the mountains. As you move north, first you encounter the lowlands of the Mirumoto, where almost all of the Dragon’s farming is done. Then the terrain becomes rougher, and you find yourself in the hilly but still inviting lands of the Kitsuki. Even among the Dragon, very few will ever have call to travel through the narrow passes into the Great Wall of the North Mountains, but if they do, they will find the shrines and school-workshops of the Agasha. From this point on you are not travelling paths so much as you are climbing mountains, sheltering where you can, until you reach Kyuden Togashi, the oldest palace of the clan, inhabited by the strange monks of the Dragon and those members of the clan who have business with the Clan Champion, Togashi Yokuni, who spends much of his time in quiet meditation here, in seclusion.
 
 While it may be scoffed at by many of the other Great Clans, the Dragon have a task just as the rest do. The Dragon record the history of Rokugan, every significant event written down on a set of massive scrolls, encoded in a serpentine script that a rare few monks even learn to read, and only the Champion seems able to learn to write. These scrolls are a prized possession for the Dragon, and should be respected and valued by all Rokugani.

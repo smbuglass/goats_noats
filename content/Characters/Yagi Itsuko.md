@@ -1,11 +1,12 @@
 ---
 tags:
   - character/goat
+  - "#season_1"
 ---
 
-![[Pasted image 20240810204204.png]]
+![[itsuko.png]]
 
-Tom's original character in [[Season 1 Cast]].
+Tom's original character in Season 1.
 # Origin
 An Ikoma bard of the Lion clan. Idk aside from that.
 # Death

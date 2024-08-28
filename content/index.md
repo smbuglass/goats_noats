@@ -6,7 +6,11 @@ Contained herein are my notes for Season 2 of the L5R Goat Clan Chronicles.
 
 ![[Goat_Mon-01.png|200]]
 # The Players
-- [[Main Characters]] - The current cast of characters! Inshallah they will all survive
+- Ethan as: [[Yagi Setso]]
+- Tommy as: [[Yagi Kagore]]
+- Drew as: [[Yogo Tatsuya]]
+- Scott as: [[Junko]]
+- Tom as: TBD
 # The Story So Far
 - [[Season 1 Summary]]
 - [[State of the Clans]]
