@@ -1,7 +1,6 @@
 ---
 tags:
   - tbd
-  - season_1
 ---
 
 # Goat Clan's Founding

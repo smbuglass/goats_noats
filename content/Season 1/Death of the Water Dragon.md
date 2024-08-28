@@ -1,6 +1,5 @@
 ---
-tags:
-  - season_1
+tags: []
 ---
 
 The [Dragon of Water](https://l5r.fandom.com/wiki/Dragon_of_Water) is generally considered to be a pretty important and powerful critter in the L5R universe. However, that didn't stop [[Yagi Ken]] from being a heinous evil bastard and killing it.

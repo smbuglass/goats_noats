@@ -1,6 +1,5 @@
 ---
-tags:
-  - season_1
+tags: []
 ---
 
 # Yagi Sponsored Activities

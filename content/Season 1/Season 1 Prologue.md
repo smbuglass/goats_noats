@@ -1,6 +1,5 @@
 ---
-tags:
-  - season_1
+tags: []
 ---
 
 The lands of the Dragon are arranged in successively smaller semicircles, moving back into the mountains. As you move north, first you encounter the lowlands of the Mirumoto, where almost all of the Dragon’s farming is done. Then the terrain becomes rougher, and you find yourself in the hilly but still inviting lands of the Kitsuki. Even among the Dragon, very few will ever have call to travel through the narrow passes into the Great Wall of the North Mountains, but if they do, they will find the shrines and school-workshops of the Agasha. From this point on you are not travelling paths so much as you are climbing mountains, sheltering where you can, until you reach Kyuden Togashi, the oldest palace of the clan, inhabited by the strange monks of the Dragon and those members of the clan who have business with the Clan Champion, Togashi Yokuni, who spends much of his time in quiet meditation here, in seclusion.

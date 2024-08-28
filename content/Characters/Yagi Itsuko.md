@@ -1,7 +1,6 @@
 ---
 tags:
   - character/goat
-  - "#season_1"
 ---
 
 ![[itsuko.png]]
