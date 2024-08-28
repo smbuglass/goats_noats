@@ -2,6 +2,8 @@
 tags:
   - character/goat
   - character/scorpion
+aliases:
+  - Tatsuya
 ---
 
 ![[tatsuya.png|350]]

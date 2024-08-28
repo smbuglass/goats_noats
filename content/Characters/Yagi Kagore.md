@@ -1,6 +1,8 @@
 ---
 tags:
   - character/goat
+aliases:
+  - Kagore
 ---
 ![[kagore.png|350]]
 

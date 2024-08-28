@@ -1,6 +1,8 @@
 ---
 tags:
   - character/goat
+aliases:
+  - Setso
 ---
 ![[setso.png|300]]
 

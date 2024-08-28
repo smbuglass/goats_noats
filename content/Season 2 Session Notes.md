@@ -1,0 +1,2 @@
+- [[Session 1]] - The squad meet, and begin [[Sapphire Magistrates|Sapphire Magistrate]] exams.
+- 
