@@ -8,7 +8,7 @@
 ## [Scorpion](https://l5r.fandom.com/wiki/Scorpion_Clan)
 ## [Unicorn](https://l5r.fandom.com/wiki/Unicorn_Clan)
 # Minor Clans
-## [[The Goat Clan Map|Goat]]
+## [[The Goat Clan Lands|Goat]]
 
 ## Mantis
 ##

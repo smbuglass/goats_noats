@@ -7,4 +7,5 @@ aliases:
 ---
 
 ![[tatsuya.png|350]]
-A young Yogo shugenja, 
+
+A young Yogo shugenja.

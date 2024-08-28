@@ -22,4 +22,4 @@ Contained herein are my notes for Season 2 of the L5R Goat Clan Chronicles.
 
 
 This site was made using Quartz. 
-See the [documentation](https://quartz.jzhao.xyz) to make your own!
+See the [documentation](https://quartz.jzhao.xyz) here to make your own!
