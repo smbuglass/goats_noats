@@ -1,10 +1,15 @@
-Our story begins in [[Hiezu]], a small town in the lands of the Goat, where exams for the newly founded [[Sapphire Magistrates]] are being held. Included among the entrants are two goat samurai, [[Yagi Setso]] and [[Yagi Kagore]], a black scorpion, [[Yogo Tatsuya]] and finally a single peasant entrant, [[Junko]].
+---
+tags:
+  - session-notes
+---
+
+Our story begins in [[Hiezu]], a small town in the lands of the Goat, where exams for the newly founded [[Sapphire Magistrates]] are being held. Included among the entrants are two goat samurai, [[Yagi Setso]] and [[Yagi Kagore]], a black scorpion, [[Yagi Tatsuya]] and finally a single peasant entrant, [[Junko]].
 # First Night 
 On the first night, Junko, who lives in [[Hiezu]] tried to catch up on studying for the exam. Since she didn't have any kind of formal education, she knew she was going to need it.
 
 [[Yagi Setso|Setso]] went out partying but quickly found the drab atmosphere of the nearby inn not to his tastes, as it was mainly full of other entrants, anxiously studying. Looking for something to liven his spirits, he shortly found the Path of Honor, a short obstacle coarse-like path up a nearby rugged hillside that samurai often race eachother up as a point of pride or to settle disputes. Setso joined in the fun and narrowly won.
 
-[[Yogo Tatsuya|Tatsuya]] tried to shmooze with the proctor, [[Kitsuki Hong]] and made some headway but was largely ignored as they were quite busy with last minute preparations for the exams.
+[[Yagi Tatsuya|Tatsuya]] tried to shmooze with the proctor, [[Kitsuki Hong]] and made some headway but was largely ignored as they were quite busy with last minute preparations for the exams.
 
 [[Yagi Kagore|Kagore]] excitedly explored the streets of [[Hiezu]], is it was his first time in a town this populated. He quickly found Setso, and also participated in a race at the Path of Honor, joining him as one of the night's victors.
 # Written Tests
@@ -24,7 +29,7 @@ The tests went largely without issue for the party, who all received satisfactor
 # Finding Your Arrow
 The afternoon saw the entrants hunting for blunted arrows which were labeled with the contestants names and fired into [[Hiezu]]. Entrants had to find the arrows "within an acceptable time."
 
-[[Yogo Tatsuya|Tatsuya]] communed with the air kami to ask where his arrow landed. In addition to finding he location of his arrow, he was given a warning about the elements being distressed by something to the east. An ill omen.
+[[Yagi Tatsuya|Tatsuya]] communed with the air kami to ask where his arrow landed. In addition to finding he location of his arrow, he was given a warning about the elements being distressed by something to the east. An ill omen.
 
 [[Junko]] was approached by a street urchin who had found her arrow, as well as that of an Ichiro entrant from the Badger clan. She thanked the child and paid him 1 zeni, telling him how to find the owner of the other arrow.
 

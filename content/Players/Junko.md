@@ -2,7 +2,7 @@
 tags:
   - character
 ---
-![[Pasted image 20240827213649.png]]
+![[junko.png]]
 
 Bastard daughter of [[The Nameless Yagi]]. Because her father did not claim her or make any attempt to be a part of her life, she has lived her life entirely as a peasant in [[Hiezu]].
 # Disgraced Daidoji
