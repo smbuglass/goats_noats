@@ -1,6 +1,6 @@
 ---
 tags:
-  - tbd
+  - "#todo"
 ---
 
 # Goat Clan's Founding

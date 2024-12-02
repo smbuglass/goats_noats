@@ -1,7 +1,7 @@
 ---
 tags:
-  - tbd
   - character/scorpion
+  - "#todo"
 ---
 
 Former Scorpion that got absolutely merc'ed by [[The Nameless Yagi]] in S1.

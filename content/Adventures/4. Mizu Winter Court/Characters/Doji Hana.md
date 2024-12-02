@@ -3,6 +3,7 @@ tags:
   - character/crane
 ---
 ![[doji hana.png|500]]
+
 Doji Hana is a junior diplomat, but a rising star much in the same way that you all are. She has not achieved personal office, but rumor has it that she has been quietly responsible for several significant victories at winter courts where she was retinue for a more senior samurai. Fear her, my lords, for she is not the Lion sieging your walls, she is the Scorpion clambering over them when you are not looking. 
 
 Doji Hana’s intentions at Court are unknown, but the Crane’s are. Since the tsunami they have relied on assistance from the Octopus to calm the choppy seas near Kyuden Doji so that rebuilding can proceed unmolested. This is an expensive purchase, and it is a mark of the trust of the Clan in Hana that this is the first solo task of an “untested” courtier. 

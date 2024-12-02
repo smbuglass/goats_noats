@@ -4,6 +4,7 @@ tags:
 ---
 
 ![[sora misao.png|500]]
+
 Sora Misao is an experienced samurai. 
 
 While not trained as a courtier, his experience as an Air tensai is significant, and he is just as subtle as any Crane. As Karo to the Master of Air, he holds a great deal of sway, and almost certainly has the full authority of the Rooster Clan behind his actions and decisions. 

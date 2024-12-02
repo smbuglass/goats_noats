@@ -11,7 +11,9 @@ The trip was a grueling one, but eventually the group found themselves at the te
 
 Given the enemy's overwhelming numbers, the group remained hidden and formulated a plan. They waited until morning, but had [[Yagi Kagore|Kagore]] sneak in alone and coordinate this plan with the monks. Come morning, when the dark samurai resumed their siege, they were surprised to see [[Yagi Kagore|Kagore]], backed up by several monks, swing the door open. They were even more surprised to then immediately be flanked by the rest of the party.
 
-The ensuing battle was fierce, with the flanking party of [[Yagi Setso|Setso]], [[Junko]], and [[Yagi Tatsuya|Tatsuya]] all coming close to being put down by the enemy samurai and their unnatural strength. However at the last moment, [[Yagi Kagore|Kagore]] swept in and downed one of the two samurai. Emboldened by this, [[Junko]] had a second wind and  #todo
+The ensuing battle was fierce, with the flanking party of [[Yagi Setso|Setso]], [[Junko]], and [[Yagi Tatsuya|Tatsuya]] all coming close to being put down by the enemy samurai and their unnatural strength. However at the last moment, [[Yagi Kagore|Kagore]] swept in and downed one of the two samurai. Emboldened by this, [[Junko]] had a second wind and  
+
+#todo finish re-writing this maybe
 # rough notes
 Under cover of night, [[Yagi Kagore|Kagore]] went in to meet up with the monks of the temple and attempt to coordinate a joint attack with them. The abbot, a former unicorn by the likes of him, agreed to muster some monks for the attack.
 
