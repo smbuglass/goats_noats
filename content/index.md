@@ -14,7 +14,7 @@ Contained herein are my notes for Season 2 of the L5R Goat Clan Chronicles.
 # The Story So Far
 - [[Season 1 Summary]]
 - [[State of the Clans]]
-# [[Session Notes Index]]
+# [[Campaign Progress]]
 # Helpful Links
 - [Generation 1 Inheritances](https://docs.google.com/document/d/1M58NHNJodjIJJrMXiGsx6p_XYRTf19lNN7-RZ-wVcKY/edit)
 - [[Setting Primer]]
